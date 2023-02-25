@@ -18,7 +18,7 @@ After collecting the data I have made the following changes:
 * Dropped all null values
 * Changed all dates into datetime data type
 * Made few categorical and boolean columns regarding recovery score and date
-#EDA
+# EDA
 I have visualized through Tableau Public. Here are some of the foundings: 
 
 <img width="292" alt="Screen Shot 2023-02-23 at 1 35 11 PM" src="https://user-images.githubusercontent.com/118776460/221281977-3fc65d9f-bcd9-4be7-a50e-044126c71500.png">
