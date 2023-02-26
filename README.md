@@ -30,5 +30,5 @@ I have built two decision tree to see the process of rules that are associated w
 I also split the data into train and test sets with a test size of 33%.
 # Model Performance
 I have used a loop to find the best criterion and max depth for the two model. 
-* Over 40% Model: 0.927
+* Over 40% Model: 0.94
 * Over 90% Model: 0.87
