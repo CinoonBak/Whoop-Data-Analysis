@@ -32,3 +32,5 @@ I also split the data into train and test sets with a test size of 33%.
 I have used a loop to find the best criterion and max depth for the two model. 
 * Over 40% Model: 0.94
 * Over 90% Model: 0.87
+
+<img width="578" alt="Screen Shot 2023-02-27 at 9 24 37 AM" src="https://user-images.githubusercontent.com/118776460/227013030-f73b1748-8e88-4f9d-9bb6-8d787741fbd4.png">
